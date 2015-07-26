@@ -11,3 +11,5 @@ geos
 libsvm
 curl
 json-cpp
+opencv
+openblas
